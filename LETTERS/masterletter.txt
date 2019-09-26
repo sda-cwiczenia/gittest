@@ -1,4 +1,4 @@
-To jest jakiś plik w podkatalogu
+Autor: Irek Piątkowski; emial: irekp@onet.pl
 #Zmiany wprowadzone przez issue2851
 Jakaś nowa linia
 Uzupełnienie brakującego kodu
