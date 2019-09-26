@@ -6,3 +6,5 @@ Dodanie testu
 Jakieś dodatkowe operacje
 Ostatnia linia zmian
 #Koniec zmian dla issue2851
+#Zmiany wprowadzone przez issue2852
+Jakiś nowy kod
