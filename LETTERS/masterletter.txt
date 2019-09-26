@@ -1,1 +1,9 @@
 To jest jakiś plik w podkatalogu
+#Zmiany wprowadzone przez issue2851
+Jakaś nowa linia
+.
+.
+.
+Ostatnia linia zmian
+#Koniec zmian dla issue2851
+
