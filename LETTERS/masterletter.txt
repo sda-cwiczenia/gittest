@@ -6,4 +6,3 @@ Dodanie testu
 Jakieś dodatkowe operacje
 Ostatnia linia zmian
 #Koniec zmian dla issue2851
-
