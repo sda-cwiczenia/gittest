@@ -8,3 +8,5 @@ Ostatnia linia zmian
 #Koniec zmian dla issue2851
 #Zmiany wprowadzone przez issue2852
 Jakiś nowy kod
+Jeszcze jakiś dodatkowy kod
+#Koniec zmian z issue2852"
