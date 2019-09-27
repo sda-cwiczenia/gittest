@@ -10,3 +10,4 @@ Ostatnia linia zmian
 Jakiś nowy kod
 Jeszcze jakiś dodatkowy kod
 #Koniec zmian z issue2852 z poprawkami"
+Nowe zmiany zakomitowane
